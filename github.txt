@@ -1,0 +1,6 @@
+Hello ,
+I am Sarisha, Im a BCA graduate from bengaluru. I have certications in python, front end web dev. I am a lover of plants, music and art.
+
+These are the some of the main things I learnt from the first session about Github:
+Github is basically like social media for projects. Github is place where we can host code. It also lets us to control versions and collaberate with people and work on same project together from any different place.
+It has the Feature of creating repositories which allows you to store a collection of files and has information regarding their history. we can commit files onto a repo and also make changes to it when needed.

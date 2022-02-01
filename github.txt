@@ -1,7 +1,26 @@
 Hello ,
-I am Sarisha, Im a BCA graduate from bengaluru. I have certications in python, front end web dev. I am a lover of plants, music and art.
+I am Sarisha, Im a BCA graduate from bengaluru. I have certications in python, front end web dev. 
+I am a lover of plants, music and art.
 
 These are the some of the main things I learnt from the first session about Github:
-Github is basically like social media for projects. Github is place where we can host code. It also lets us to control versions and collaberate with people and work on same project together from any different place.
-It has the Feature of creating repositories which allows you to store a collection of files and has information regarding their history. we can commit files onto a repo and also make changes to it when needed.
-thanks
+Github is basically like social media for projects. Github is place where we can host code. 
+It also lets us to control versions and collaberate with people and work on same project together from any different place.
+To create a github account you need to go to the github website which is www.github.com 
+> click on sign up
+> enter the details asked for and then log in to the platform.
+
+Github has the Feature of creating repositories which allows you to store a collection of files and has information regarding their history.
+we can commit files onto a repo and also make changes to it when needed.
+Inorder to create a repo: 
+>Go click on profile icon on top right corner after loggin in
+>click on "Your Repositories" option 
+>click on "create new repository" then enter a name for your repo, 
+>it will have options asking if you want to be public or private, 
+>you can also add a README file if you want to then it takes to the next step 
+>Here it allows your to create files or upload already created files which you want to be storing in the repo.
+
+Github also allow you to clone repos and also create branches in a repo
+It allows you to collaberate with others and it allows addition of many branches and also allows to merge it to single branch.
+Github basically makes the projects easier to work on together from different places.
+
+It has options of editing files, Pulling requests, and adding Issues so others can see it and help on it
